@@ -1,3 +1,5 @@
-[Software Engineering at Google](software-engineering-at-google)
+[Software Architecture: The Hard Parts](software-architecture-the-hard-parts) (Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani)
 
-[Software Architecture: The Hard Parts](software-architecture-the-hard-parts)
+[Software Engineering at Google](software-engineering-at-google) (Titus Winters, Tom Mashreck, Hyrum Wright)
+
+[Staff Engineer](staff-engineer) (Will Larson)
